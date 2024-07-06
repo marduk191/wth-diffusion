@@ -19,5 +19,5 @@
 <p>&nbsp;</p>
 
 <hr />
-<p>https://marduk191.github.io/wth-diffusion/</a>.</p>
+<p><a href="https://marduk191.github.io/wth-diffusion/"</a>.</p>
 
